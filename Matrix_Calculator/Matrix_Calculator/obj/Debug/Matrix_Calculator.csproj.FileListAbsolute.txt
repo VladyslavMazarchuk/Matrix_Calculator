@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\bin\Debug\Matrix_Calculator.exe.config
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\bin\Debug\Matrix_Calculator.exe
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\bin\Debug\Matrix_Calculator.pdb
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.exe
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.pdb
+C:\Users\Admin\Desktop\ЖДПУ\Другий семестр\Курсова Робота(WinForm)\Matrix_Calculator\Matrix_Calculator\obj\Debug\Matrix_Calculator.MainPage.resources

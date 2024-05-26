@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Matrix_Calculator.ColorManager" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEBBAAAAAAACAAAAAAAIACAAgAgAAAAAA=</HashCode>
+      <FileName>BackgroundSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.ExponentiationMatrixA" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAI=</HashCode>
+      <FileName>ExponentiationMatrixA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.ExponentiationMatrixB" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQ=</HashCode>
+      <FileName>ExponentiationMatrixB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.InverseMatrixA" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InverseMatrixA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.InverseMatrixB" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InverseMatrixB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.LUDecompositionMatrixA" Collapsed="true">
+    <Position X="45.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LUDecompositionMatrixA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.LUDecompositionMatrixB" Collapsed="true">
+    <Position X="47.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LUDecompositionMatrixB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MainPage" Collapsed="true">
+    <Position X="54.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TaSAYG1EQSEATJbKkoKEAsBSOQSbaT0EEJAaYwZBGPA=</HashCode>
+      <FileName>MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixClearer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixClearer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixOperations" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixOperations_Addition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixOperations_Determinant_A" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>MatrixOperations_Determinant_A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixOperations_Determinant_B" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>MatrixOperations_Determinant_B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixOperations_Multiplication" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixOperations_Multiplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixOperations_Subtraction" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>MatrixOperations_Subtraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixRank_A" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>MatrixRank_A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixRank_B" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>MatrixRank_B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MatrixTransposition_B" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixTransposition_B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MultiplyMatrixA" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgA=</HashCode>
+      <FileName>MultiplyMatrixA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.MultiplyMatrixB" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAgA=</HashCode>
+      <FileName>MultiplyMatrixB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.Program" Collapsed="true">
+    <Position X="38.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.Replacement" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAI=</HashCode>
+      <FileName>Replacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.TraceMatrixA" Collapsed="true">
+    <Position X="50" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TraceMatrixA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.TraceMatrixB" Collapsed="true">
+    <Position X="52.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TraceMatrixB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatrixTransposition_A" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>MatrixTransposition_A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.Properties.Resources" Collapsed="true">
+    <Position X="41" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix_Calculator.Properties.Settings" Collapsed="true">
+    <Position X="56.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
